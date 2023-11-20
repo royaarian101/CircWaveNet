@@ -12,7 +12,7 @@ Initially, download all the .rar files and store them collectively in a folder n
 3.	From the Python folder, run the data_sorting.py file in order to sort all B-scans in a dictionary.
 4.	Utilize the preparing_data_for_matlab.py script located in the Python folder to prepare the data for circlet transformation.
 5.	In the MATLAB folder open the Circlet_transform folder and run the main.m file.
-6.	Run the CircWave.py file located in Python folder to decompose each B-scan into 7 sub-bands using the proposed CircWave transform.
+6.	Run the CircWave.py file located in Python folder to decompose each B-scan into 19 sub-bands using the proposed CircWave transform.
 7.	Ultimately, the execution of the classification based on the proposed method can be initiated by running the CircWaveNet.py file located in the Python folder.
 
 

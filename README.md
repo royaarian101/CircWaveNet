@@ -6,7 +6,7 @@ In this research, MATLAB R2020a software was utilized for executing the pre-proc
 If you utilize any portion or the entirety of this code, kindly cite the paper titled "CircWaveNet: A Novel Convolutional Neural Network Based on the Fusion of Circlets and Wavelets for Macular OCT Classification."
 
 
-Follow the steps below to implement the proposed "CircWaveNet".
+Initially, download all the .rar files and store them collectively in a folder named "codes". Subsequently, follow the steps below to implement the proposed "CircWaveNet".
 1.	First download the data via https://misp.mui.ac.ir/en/dataset-oct-classification-50-normal-48-amd-50-dme-0 and extract the zip file and store it in DATA folder. 
 2.	Navigate to the preprocessing folder within the MATLAB folder, and execute the preprocessing.m file to perform the preprocessing as outlined in the manuscript. 
 3.	From the Python folder, run the data_sorting.py file in order to sort all B-scans in a dictionary.

@@ -11,4 +11,4 @@ Follow the steps below to implement the proposed "CircWaveNet".
 6.	Run the CircWave.py file located in Python folder to decompose each B-scan into 19 sub-bands using the proposed CircWave transform.
 7.	Ultimately, the execution of the classification based on the proposed method can be initiated by running the CircWaveNet.py file located in the Python folder.
 
-For additional information, please reach out to us at: royaarian101@gmail.com.
+For additional information, please reach out to us at: royaarian101@gmail.com. 

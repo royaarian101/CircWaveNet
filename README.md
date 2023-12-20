@@ -12,3 +12,4 @@ Follow the steps below to implement the proposed "CircWaveNet".
 7.	Ultimately, the execution of the classification based on the proposed method can be initiated by running the CircWaveNet.py file located in the Python folder.
 
 For additional information, please reach out to us at: royaarian101@gmail.com. 
+please cite the article "A new convolutional neural network based on combination of circlets and wavelets for macular OCT classification" if you use a part or whole codes. 
